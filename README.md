@@ -19,7 +19,7 @@ Note:
 
 I implemented Junit, page object model, screenshots, page object locators and verify conditions.
 
-I did not implement testng , cucumber , assert , locators as a separate.
+I did not implement testng , cucumber , assert , locators as a separate file.
 
 But very very good at the are not implemented also.
 

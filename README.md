@@ -21,13 +21,13 @@ I implemented Junit, page object model, screenshots, page object locators and ve
 
 I did not implement testng , cucumber , assert , locators as a separate file.
 
-But very very good at the are not implemented also.
+But i am very very good at the area are not implemented also.
 
 If you want i will implement those too and let you know.
 
 If you have any doubts please feel free to ask me at any time.
 
-and I am expecting a positive response from you side at the earliest.
+and I am expecting a positive response from your side at the earliest.
 
 Thanks and Regards
 Baskar Sekaran

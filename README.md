@@ -13,7 +13,7 @@ Step 4: open the java file AmazonSearchProdcutTest.java and change the path of t
 
 Step 5: open the java file AddToCartPage.java and change the screenshot path.
 
-Step 6: Right and run the file AmazonSearchProdcutTest.java as a junit test and see the screenshots in the specified path in the AddToCartPage.java file.
+Step 6: Right click and run the file AmazonSearchProdcutTest.java as a junit test and see the screenshots in the specified path in the AddToCartPage.java file.
 
 Note:
 
